@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keretz02
-- 👀 I’m interested in web/software development
-- 🌱 I’m currently learning coding using C#
+- 👀 I’m interested in securing Microsoft users, applications and organization resources
+- 🌱 I’m currently inot cloud security (IAM)
 - 💞️ I’m looking to collaborate on solving problems
 - 📫 How to reach me is via mail keretz02@hotmail.com or facebook, Kingsley 'asuquo' Charles
 
